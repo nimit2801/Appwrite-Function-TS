@@ -1,0 +1,21 @@
+{
+    "projectId": "6452502093c879e17e83",
+    "projectName": "Open Source Town",
+    "functions": [
+        {
+            "$id": "appwritetsfunc",
+            "name": "Appwrite Function TS",
+            "runtime": "node-16.0",
+            "path": "functions/Appwrite Function TS",
+            "entrypoint": "build/index.js",
+            "ignore": [
+                "node_modules",
+                ".npm"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
